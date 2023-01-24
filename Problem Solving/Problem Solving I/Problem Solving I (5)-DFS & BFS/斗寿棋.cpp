@@ -173,7 +173,7 @@ void dfs(int x){
 		}
 		return;
 	}
-	if(x%2!=0){//奇数轮 z先下 dxy后下 
+	if(x%2!=0){//脝忙脢媒脗脰 z脧脠脧脗 dxy潞贸脧脗 
 		 if(dxyc[x]>0){
 		 	if(!CheckEmpty(dxyc[x]))
 		 	return;
