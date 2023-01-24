@@ -51,4 +51,5 @@ Q.......
 # 提示
 
 样例如图
+
 ![images](https://github.com/gaucher21/Picture-Library/blob/main/Pictures%20for%20Problem%20Solving/Problem%20Solving%20I%20(5)%20A.png)
