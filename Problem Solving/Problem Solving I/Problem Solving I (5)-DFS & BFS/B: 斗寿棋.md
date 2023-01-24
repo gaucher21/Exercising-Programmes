@@ -2,8 +2,7 @@
 
 `DXY`的舍友`Z`听说了一个游戏"距骨骰"，随后天天拉着`DXY`一起玩，由于`DXY`一直输，于是便称这个游戏为"斗寿棋"，游戏规则经过修改后如下：
 
-!(images)[https://github.com/gaucher21/Picture-Library/blob/main/Pictures%20for%20Problem%20Solving/Problem%20Solving%20I%20(5)%20B%201.png]
-
+![images](https://github.com/gaucher21/Picture-Library/blob/main/Pictures%20for%20Problem%20Solving/Problem%20Solving%20I%20(5)%20B%201.png)
 `z`和`DXY`分别有一张3*3的棋盘，棋盘的每个位置初始状态都为空，进行9轮游戏，第一轮由`z`先出手，每一轮的操作如下：
 
 
