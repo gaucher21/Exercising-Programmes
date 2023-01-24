@@ -1,23 +1,25 @@
-相信大家都学过BNF范式吧(并不)
+# 题目描述
 
-这里用BNF范式给出了较为简单的URL的规则（为了简化题目，此处URL规则并不和实际上有效的URL完全一致），请你实现一个程序，判断输入的字符串是否是合法的URL（合法的URL指符合题目给出的BNF范式的字符串）。
+学习一门新语言编写的第一个程序通常就是输出 "Hello world!"**（不含引号，注意大小写）**。请你写一个程序实现该功能。
 
-URL::=[Protocol "://"]<hostname>[':'port][path]['?'query]['#'fragment]
-  
-Protocol::=<letter>{letter}
-  
-hostname::=string{'.'string}
-  
-port::=<digit>{digit}
-  
-path::=<'/'{letter|digit}>{'/'{letter|digit}}
-  
-query::=<string['='string]>{'&'string['='string]}
-  
-fragment::=string
-  
-string::=<letter|digit>{letter|digit}
-  
-letter::=<'a'|'b'|'c'|'d'.....|'z'|'A'|'B'|'C'|'D'......|'X'|'Y'|'Z'>
-  
-digit::=<'0'|'1'|'2'|'3'|'4'|'5'|'6'|'7'|'8'|'9'>
+# 输入
+
+本题没有输入，只需输出一行"Hello world!"即可
+
+# 样例输入
+
+```
+
+```
+
+# 样例输出
+
+```
+Hello world!
+```
+
+# 提示
+
+* 请格外注意输出字符串中的大小写及标点符号。
+* 这里有一份C++语言的基础输入输出教学，你可以参考和学习它，但不应该直接对着代码复制粘贴。
+* 我们鼓励你尝试各种其他语言，比如 Python, Java, Haskell 等，体验它们的编程方式。
